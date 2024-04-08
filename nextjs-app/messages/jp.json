@@ -1,0 +1,12 @@
+{
+  "Index": {
+    "welcome": "ようこそう",
+    "goodbye": "さよなら"
+  },
+  "Dashboard": {
+    "title": "ダッシュボード"
+  },
+  "Settings": {
+    "title": "設定"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Index": {
+    "welcome": "Welcome",
+    "goodbye": "Goddbye"
+  },
+  "Dashboard": {
+    "title": "Dashboard"
+  },
+  "Settings": {
+    "title": "Settings"
+  }
+}

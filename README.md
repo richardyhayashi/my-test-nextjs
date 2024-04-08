@@ -2,4 +2,8 @@
 
 ## Create Next.js
 
-`npx create-next-app@latest nextjs-app`
+`$ yarn create-next-app@latest nextjs-app`
+
+## Install next-intl
+
+`$ yarn add next-intl`
